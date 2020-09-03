@@ -13,7 +13,10 @@ The is our presentation.
 <a href="SERVICE-DESIGN--ppt.pdf" target="_blank"><br>
 	<button>content-PPT</button> </a> 
 	
-<img src = "dot.jpg" alt="break" width=70 align=center>
+
+<p align="center">
+  <img width="70" src="dot.jpg">
+</p>
 
 ## ABSTRACT-PDFs
 The below is an abstract PDF from the content of PPT. 
