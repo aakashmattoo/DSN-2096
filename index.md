@@ -25,6 +25,18 @@ The below is an abstract PDF from the content of PPT.
 	
 <hr>
 
+## HyperLinks
+
+* <a href="https://boagworld.com/audio/service-design/#Why_is_Service_Design_a_Thing?" target="_blank">Why is Service Design a thing</a>
+* Know more about <a href="https://www.nngroup.com/articles/service-design-101/" target="_blank">Service Design</a>
+* <a href="https://brand24.com/blog/3-real-life-examples-of-good-customer-service-in-retail-from-companies-large-and-small/" target="_blank">Service Design impacts PEOPLE</a>
+* <a href="https://www.interaction-design.org/literature/article/customer-touchpoints-the-point-of-interaction-between-brands-businesses-products-and-customers"  target="_blank">Customer Touchpoints</a>
+* <a href="https://www.conductor.com/blog/2019/01/what-is-a-touchpoint-marketing-touchpoints-on-a-buyers-journey-in-2019/" target="_blank">What is a TOUCHPOINT?</a>
+* <a href="https://medium.com/@angelquicksey/service-design-for-policy-b0a9408dced1#_ftn22" target="_blank">Service Design in a POLICY Environment</a>
+* <a href="https://creativeword.uk.com/blog/localization/culture-influences-design/" target="_blank">How Culture Influences Design</a>
+
+<hr><hr>
+
 ## Downloadable-PDFs
 
 * <a href="Agile_Service_Design_Framework_Enfocus_Solutions.pdf" target="_blank">Click here to know about <b>SERVICE DESIGN</b></a>  OR 
@@ -43,15 +55,6 @@ The below is an abstract PDF from the content of PPT.
   <br><a href="DS42_P_554.pdf" download="DS42_P_554.pdf">
     <button>Download PDF</button></a>
 <hr>
-
-## HyperLinks
-
-* <a href="https://boagworld.com/audio/service-design/#Why_is_Service_Design_a_Thing?" target="_blank">Why is Service Design a thing</a>
-* Know more about <a href="https://www.nngroup.com/articles/service-design-101/" target="_blank">Service Design</a>
-* <a href="https://brand24.com/blog/3-real-life-examples-of-good-customer-service-in-retail-from-companies-large-and-small/" target="_blank">Service Design impacts PEOPLE</a>
-* <a href="https://www.interaction-design.org/literature/article/customer-touchpoints-the-point-of-interaction-between-brands-businesses-products-and-customers"  target="_blank">Customer Touchpoints</a>
-* <a href="https://www.conductor.com/blog/2019/01/what-is-a-touchpoint-marketing-touchpoints-on-a-buyers-journey-in-2019/" target="_blank">What is a TOUCHPOINT?</a>
-* <a href="https://medium.com/@angelquicksey/service-design-for-policy-b0a9408dced1#_ftn22" target="_blank">Service Design in a POLICY Environment</a>
 
 
 
