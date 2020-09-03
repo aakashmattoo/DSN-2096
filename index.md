@@ -54,9 +54,6 @@ The below is an abstract PDF from the content of PPT.
  * <a href="DS42_P_554.pdf" target="_blank">Click to know about<b> CULTURAL INFLUENCES</b></a>  OR 
   <br><a href="DS42_P_554.pdf" download="DS42_P_554.pdf">
     <button>Download PDF</button></a>
-<hr>
-
-
 
 <hr>
 ```markdown
