@@ -17,7 +17,7 @@ The is our presentation.
 	
 <hr>
 
-## PPT-ABSTRACT-PDFs
+## ABSTRACT-PDFs
 The below is an abstract PDF from the content of PPT. 
 <br>
 <a href="SERVICE-DESIGN-abstract.pdf" target="_blank">
