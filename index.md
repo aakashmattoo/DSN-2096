@@ -1,11 +1,7 @@
-<img src = "online activist.png" alt="this is quiz 3 answers">
-<p></p>
+<img src = "online activist.png" alt="WELCOME">
 
-# SERVICE DESIGN
-
-
-Hello beautiful humans! <br>As we all know Module III was a FLIPPED classroom and ME and MY GROUP, explained the topic **SERVICE DESIGN**.
-<br>We used certain PDFs and links for the same. So I am sharing all those PDFs and links below for your help.
+# **Hello beautiful humans!** <br>
+As we all know Module-III was a FLIPPED classroom and ME and MY GROUP, explained the topic **SERVICE DESIGN**. We used certain PDFs and links for the same. So I am sharing all those PDFs and links below for your help.
 
 <hr>
 ```markdown
@@ -17,7 +13,7 @@ The is our presentation.
 <a href="SERVICE-DESIGN--ppt.pdf" target="_blank"><br>
 	<button>content-PPT</button> </a> 
 	
-<hr>
+<img src = "dot.jpg" alt="break" width=70 align=center>
 
 ## ABSTRACT-PDFs
 The below is an abstract PDF from the content of PPT. 
