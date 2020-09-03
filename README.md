@@ -1,4 +1,4 @@
 # DSN-2096
-MODULE-III
+SERVICE DESIGN
 
 [click here to GO to site](https://aakashmattoo.github.io/DSN-2096/)
