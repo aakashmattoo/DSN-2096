@@ -14,17 +14,27 @@ The is our presentation.
 	<button>content-PPT</button> </a> 
 	
 
+
 <p align="center">
   <img width="100" src="dot1 (1).jpg">
 </p>
+
+
 
 ## ABSTRACT-PDFs
 The below is an abstract PDF from the content of PPT. 
 <br>
 <a href="SERVICE-DESIGN-abstract.pdf" target="_blank">
 	<button>ABSTRACT-PDF</button> </a> 
+
 	
-<hr>
+
+
+<p align="center">
+  <img width="100" src="dot1 (1).jpg">
+</p>
+
+
 
 ## HyperLinks
 
@@ -34,9 +44,15 @@ The below is an abstract PDF from the content of PPT.
 * <a href="https://www.interaction-design.org/literature/article/customer-touchpoints-the-point-of-interaction-between-brands-businesses-products-and-customers"  target="_blank">Customer Touchpoints</a>
 * <a href="https://www.conductor.com/blog/2019/01/what-is-a-touchpoint-marketing-touchpoints-on-a-buyers-journey-in-2019/" target="_blank">What is a TOUCHPOINT?</a>
 * <a href="https://medium.com/@angelquicksey/service-design-for-policy-b0a9408dced1#_ftn22" target="_blank">Service Design in a POLICY Environment</a>
-* <a href="https://creativeword.uk.com/blog/localization/culture-influences-design/" target="_blank">How Culture Influences Design</a>
+* <a href="https://creativeword.uk.com/blog/localization/culture-influences-design/" target="_blank">How Culture Influences Design?</a>
 
-<hr><hr>
+
+
+<p align="center">
+  <img width="100" src="dot1 (1).jpg">
+</p>
+
+
 
 ## Downloadable-PDFs
 
@@ -63,4 +79,12 @@ The below is an abstract PDF from the content of PPT.
 ### Support or Contact
 
 Having trouble with downloading PDFs/opening LINKS. Contact me through WhatsApp or VIT-B GMail-```aakash.mattoo2019@vitbhopal.ac.in```.
-<hr><hr><hr>
+	
+
+
+<p align="center">
+  <img width="150" src="dot1 (1).jpg">
+</p>
+
+
+
