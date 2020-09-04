@@ -1,6 +1,6 @@
 <img src = "online activist.png" alt="WELCOME">
 
-# **Hello beautiful humans!** <br>
+## **Hello beautiful humans!** <br>
 As we all know Module-III was a FLIPPED classroom and ME and MY GROUP, explained the topic **SERVICE DESIGN**. We used certain PDFs and links for the same. So I am sharing all those PDFs and links below for your help.
 
 <hr>
@@ -8,7 +8,7 @@ As we all know Module-III was a FLIPPED classroom and ME and MY GROUP, explained
 ```
 <hr>
 
-## PowerPoinT
+# PowerPoinT
 The is our presentation.
 <a href="SERVICE-DESIGN--ppt.pdf" target="_blank"><br>
 	<button>content-PPT</button> </a> 
@@ -21,7 +21,7 @@ The is our presentation.
 
 
 
-## ABSTRACT-PDFs
+# ABSTRACT-PDFs
 The below is an abstract PDF from the content of PPT. 
 <br>
 <a href="SERVICE-DESIGN-abstract.pdf" target="_blank">
@@ -36,7 +36,7 @@ The below is an abstract PDF from the content of PPT.
 
 
 
-## HyperLinks
+# HyperLinks
 
 * <a href="https://boagworld.com/audio/service-design/#Why_is_Service_Design_a_Thing?" target="_blank">Why is Service Design a thing</a>
 * Know more about <a href="https://www.nngroup.com/articles/service-design-101/" target="_blank">Service Design</a>
@@ -54,7 +54,7 @@ The below is an abstract PDF from the content of PPT.
 
 
 
-## Downloadable-PDFs
+# Downloadable-PDFs
 
 * <a href="Agile_Service_Design_Framework_Enfocus_Solutions.pdf" target="_blank">Click here to know about <b>SERVICE DESIGN</b></a>  OR 
   <br><a href="Agile_Service_Design_Framework_Enfocus_Solutions.pdf" download="Agile_Service_Design_Framework_Enfocus_Solutions.pdf">
@@ -76,7 +76,7 @@ The below is an abstract PDF from the content of PPT.
 ```markdown
 ```
 <hr>
-### Support or Contact
+# Support or Contact
 
 Having trouble with downloading PDFs/opening LINKS. Contact me through WhatsApp or VIT-B GMail-```aakash.mattoo2019@vitbhopal.ac.in```.
 	
