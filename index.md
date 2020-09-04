@@ -15,7 +15,7 @@ The is our presentation.
 	
 
 <p align="center">
-  <img width="70" src="dot.jpg">
+  <img width="70" src="dot1.jpg">
 </p>
 
 ## ABSTRACT-PDFs
