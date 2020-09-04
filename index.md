@@ -78,7 +78,7 @@ The below is an abstract PDF from the content of PPT.
 <hr>
 # Support or Contact
 
-Having trouble with downloading PDFs/opening LINKS. Contact me through WhatsApp or VIT-B GMail-```aakash.mattoo2019@vitbhopal.ac.in```.
+Having trouble with downloading PDFs/opening LINKS. Contact me through WhatsApp or VIT-B mail <br> ```aakash.mattoo2019@vitbhopal.ac.in```.
 	
 
 
