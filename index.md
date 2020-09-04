@@ -16,7 +16,7 @@ The is our presentation.
 
 
 <p align="center">
-  <img width="100" src="dot1 (1).jpg">
+  <img width="100" src="dot1.png">
 </p>
 
 
@@ -31,7 +31,7 @@ The below is an abstract PDF from the content of PPT.
 
 
 <p align="center">
-  <img width="100" src="dot1 (1).jpg">
+  <img width="100" src="dot1.png">
 </p>
 
 
@@ -49,7 +49,7 @@ The below is an abstract PDF from the content of PPT.
 
 
 <p align="center">
-  <img width="100" src="dot1 (1).jpg">
+  <img width="100" src="dot1.png">
 </p>
 
 
@@ -83,7 +83,7 @@ Having trouble with downloading PDFs/opening LINKS. Contact me through WhatsApp 
 
 
 <p align="center">
-  <img width="150" src="dot1 (1).jpg">
+  <img width="150" src="dot1.png">
 </p>
 
 
