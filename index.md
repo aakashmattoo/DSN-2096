@@ -83,7 +83,7 @@ Having trouble with downloading PDFs/opening LINKS. Contact me through WhatsApp 
 
 
 <p align="center">
-  <img width="150" src="dot1.png">
+  <img width="200" src="dot1.png">
 </p>
 
 
